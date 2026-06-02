@@ -1,15 +1,15 @@
 # Olist Operational Insights
 
-### The goal of this project is to assess the operational performance in order to identify opprtunities to improve order fulfillment efficiency, delivery performance, and overall customer experience.
+### The goal of this project is to identify operational bottlenecks across order processing, seller fulfillment, and delivery execution in order to reduce delivery delays, improve customer satisfaction, and prioritize operational improvement initiatives.
 
 Table of Contents
 
 
 ## Project Background
 
-Olist, the largest department store in Brazilian marketplaces connects small businesses from all over Brazil to channels without hassle and with a single contract. Merchants are able to sell their products through the Olist Store and ship them directly to the customers using Olist logistics partners. After a customer purchases the product from Olist Store a seller gets notified to fulfill that order. Once the customer receives the product, or the estimated delivery date is due, the customer gets a satisfaction survey by email where he can give a note for the purchase experience and write down some comments.
+Olist is a Brazilian e-commerce platform that connects small and medium-sized merchants to multiple online marketplaces through a single integrated platform. When a customer places an order, the seller is responsible for processing and fulfilling it, while Olist coordinates shipment and delivery through its logistics partners across Brazil. After an order is delivered, or once the estimated delivery date has passed, customers receive a satisfaction survey that captures ratings and feedback on their overall purchase experience.
 
-The Operations Manager wants to understand how demand changed over time, which products drive most order volume or has the highest return rates, how efficient is the delivery process and what operational improvements should be prioritized based on the findings.
+The primary stakeholder for this project is the Operations Manager, who is responsible for overseeing order fulfillment efficiency and delivery performance. As order volumes increase, maintaining efficient operations and ensuring timely deliveries become critical to delivering a positive customer experience. To support operational decision-making, the stakeholder requires insights into demand patterns, fulfillment bottlenecks, and delivery performance. These insights will help identify opportunities to improve operational efficiency, reduce delivery delays, and enhance customer satisfaction.
 
 Check out the business question details and KPI breakdown [here](https://github.com/raytiasha/WIP_Project/blob/main/Business%20Questions%20and%20KPIs.md).
 
