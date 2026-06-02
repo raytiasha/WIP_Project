@@ -13,6 +13,11 @@ The primary stakeholder for this project is the Operations Manager, who is respo
 
 The business questions and supporting KPIs that guide this analysis are outlined [here](https://github.com/raytiasha/WIP_Project/blob/main/Business%20Questions%20and%20KPIs.md).
 
+## Dataset Overview
+
+Source: Brazilian E-Commerce Public Dataset by Olist (Kaggle)<br>
+[View Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+
 ---
 
 For more of my projects and data journey, visit my [Portfolio](https://github.com/raytiasha/My-Portfolio).
