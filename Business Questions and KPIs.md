@@ -10,33 +10,28 @@
 5. What operational improvements can be recommended based on these findings?<br>
    Deriving actionable recommendations from Ques 1-4.
 
-   **KPI definitions**
-   1. Total Orders = Number of unique orders.
-   2. Revenue = Total sales value.
-   3. Average delivery time = Average number of days between purchase and delivery.
+## Detailed Qustion Breakdown
 
-### Other business questions that Operations Manager would likely care about are:
-
-<u>Order fulfillment</u>
+1. Order fulfillment
 1. How many orders are received daily/weekly/monthly?
 2. What is the trend over time?
 3. Which regions generate the most orders?
 4. Order processing time?
 5. Regional fulfillment percentage?
 
-<u>Delivery performance</u>
+2. Delivery performance
 1. Average delivery time?
 2. Which regions have longest delivery times?
 3. Late delivery percentage?
 
-<u>Inventory availability</u>
+3. Inventory availability</u>
 1. Top-selling products?
 2. Slow-moving products?
 3. Stockout-prone products?
 4. Overstocked products?
 5. Inventory turnover analysis.
    
-<u>Returns management</u>
+4. Returns management</u>
 1. Return rate by category?
 2. Most common return reasons?
 3. Products with highest returns?
@@ -45,7 +40,12 @@
 5. Cost per order?
 6. High-cost customers or locations?
 
-<u>Customer Service from an operations perspective</u>
+5. Customer Service from an operations perspective
 1. Complaint rate?
 2. Refund rate?
 3. Repeat operational issues?
+
+## KPI definitions
+   1. Total Orders = Number of unique orders.
+   2. Revenue = Total sales value.
+   3. Average delivery time = Average number of days between purchase and delivery.
