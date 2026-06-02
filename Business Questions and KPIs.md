@@ -35,10 +35,10 @@ This analysis aims to answer the following operational questions:
    2. Justifies investment in operational improvements.
 
    **KPIs:**
-   Review score
-   Delay days
-   Percentage of low-rated orders
-   Customer satisfaction by delivery status
+   1. Review score
+   2. Delay days
+   3. Percentage of low-rated orders
+   4. Customer satisfaction by delivery status
 
 ## KPI definitions
    1. Total Orders = Number of unique orders.
