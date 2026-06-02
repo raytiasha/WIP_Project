@@ -11,7 +11,7 @@ Olist is a Brazilian e-commerce platform that connects small and medium-sized me
 
 The primary stakeholder for this project is the Operations Manager, who is responsible for overseeing order fulfillment efficiency and delivery performance. As order volumes increase, maintaining efficient operations and ensuring timely deliveries become critical to delivering a positive customer experience. To support operational decision-making, the stakeholder requires insights into demand patterns, fulfillment bottlenecks, and delivery performance. These insights will help identify opportunities to improve operational efficiency, reduce delivery delays, and enhance customer satisfaction.
 
-Check out the business question details and KPI breakdown [here](https://github.com/raytiasha/WIP_Project/blob/main/Business%20Questions%20and%20KPIs.md).
+The business questions and supporting KPIs that guide this analysis are outlined [here](https://github.com/raytiasha/WIP_Project/blob/main/Business%20Questions%20and%20KPIs.md).
 
 ---
 
